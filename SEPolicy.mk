@@ -2,10 +2,10 @@
 BOARD_SEPOLICY_DIRS := \
         device/mediatek/sepolicy/non_plat
 
-BOARD_PLAT_PUBLIC_SEPOLICY_DIR := \
+SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS := \
         device/mediatek/sepolicy/plat_public
 
-BOARD_PLAT_PRIVATE_SEPOLICY_DIR := \
+SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS := \
         device/mediatek/sepolicy/plat_private
 
 
